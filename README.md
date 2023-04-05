@@ -1,10 +1,8 @@
 
 # Clone home Desney 💻 
-# Intuitive book library
  🖊 
 
 App da home do aplicativo da Desney + .
-Relógio interativo !!!!
 
 Interactive clock !!!!
 ## Funcionalidades   💎 
