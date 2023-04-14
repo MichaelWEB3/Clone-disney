@@ -1,8 +1,8 @@
 
-# Clone home Desney 💻 
+# Clone home Disney 💻 
  🖊 
 
-App da home do aplicativo da Desney + .
+App da home do aplicativo da Disney + .
 
 Interactive clock !!!!
 ## Funcionalidades   💎 
